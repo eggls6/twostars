@@ -5,11 +5,12 @@ Analytic Insolation Calculator for Circumbinary Planets
 Written by:
 
 Siegfried Eggl  2015 03 03
+Anna Zuckerman 2019 08 19
 
 ----------------------------------------------
 Last modified:
 
-2018 04 10
+2019 08 19
 
 ----------------------------------------------
 Language:
