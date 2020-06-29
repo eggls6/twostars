@@ -7,10 +7,13 @@ Written by:
 Siegfried Eggl, 
 Anna Zuckerman
 
+Contributors:
+Michaela Leung
+
 ----------------------------------------------
 Last modified:
 
-2019 08 19
+2020 06 29
 
 ----------------------------------------------
 Language:
