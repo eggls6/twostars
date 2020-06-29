@@ -27,6 +27,7 @@ program insolation4_tst
 !         file "twostars_out_bndfluxnet.csv"
 !         file "twostars_out_distances.csv"
 !         file "twostars_out_weights.csv"
+!         file "eccentricity.dat"
 !----------------------------------------------------------------------------------------
 use twostars_m 
 
